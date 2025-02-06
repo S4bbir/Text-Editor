@@ -22,6 +22,7 @@ A lightweight and user-friendly text editor designed for quick and easy text edi
 
 - Run the exe and start typing.
 - Use the menu options to open, save, or edit text files.
+- Use the color and font section to change the color and font as you like
 - Enjoy a simple and efficient text editing experience.
 
 ## Contributing
